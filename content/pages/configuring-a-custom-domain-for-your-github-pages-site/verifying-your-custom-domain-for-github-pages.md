@@ -33,7 +33,7 @@ It's also possible to verify a domain for your organization{% ifversion ghec %} 
 
 ## Verifying a domain for your organization site
 
-Organization owners can verify custom domains for their organization.
+Organization owners can verify custom domains for their organization. Warith Akbar 
 
 {% data reusables.profile.access_org %}
 {% data reusables.profile.org_settings %}
